@@ -65,9 +65,9 @@ Numpy provides Python numerical functions needed by Model-T. After Python
 has been installed, Numpy can be installed in Windows 10 by opening a
 command prompt and executing the following commands:
 
-> cd \Python27\Scripts
-> pip install numpy
-> pip install statistics
+- cd \Python27\Scripts
+- pip install numpy
+- pip install statistics
 
 
 (4) Download and Install Model-T
@@ -116,8 +116,7 @@ to prevent termination of a simulation run:
 
 I set my group policy as follows:
 
-- Local Computer Policy > Computer Configuration > Administrative Templates
-  > Windows Components > Windows Update
+- Local Computer Policy > Computer Configuration > Administrative Templates > Windows Components > Windows Update
 - Configure Automatic Updates = Enabled = 2 = Notify before downloading
   and installing any updates
 - No auto-restart with logged on users for scheduled automatic updates
