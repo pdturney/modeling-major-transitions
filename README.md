@@ -23,6 +23,10 @@ The Major Transitions in Evolution:
 
 - https://en.wikipedia.org/wiki/The_Major_Transitions_in_Evolution
 
+Modeling Major Transitions in Evolution with the Game of Life:
+
+- https://arxiv.org/abs/1908.07034
+
 Conditions for Major Transitions in Biological and Cultural Evolution:
 
 - http://www.alife.org/workshops/oee3/papers/turney-oee3-final.pdf
