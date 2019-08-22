@@ -5,7 +5,7 @@ Model-T -- Modeling Major Transitions in Evolution with the Game of Life
 
 Peter Turney
 
-July 8, 2019
+August 22, 2019
 
 Model-T is a tool for modeling the major transitions in evolution.
 Model-T is implemented as a set of Python scripts that work with the Golly 
